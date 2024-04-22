@@ -46,8 +46,8 @@
 // num.splice(1, 0, 55, 66, 66);
 // console.log(num);
 
-let companies = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Amazon"];
+// let companies = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Amazon"];
 // companies.shift();
 // companies.splice(2, 1, "Ola")
-companies.push("Netflix");
-console.log(companies);
+// companies.push("Netflix");
+// console.log(companies);
